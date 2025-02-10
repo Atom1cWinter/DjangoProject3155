@@ -1,0 +1,1 @@
+You may have to run 'venv/scripts/activate' in order to start working on this project in the future.
